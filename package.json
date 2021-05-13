@@ -6,7 +6,7 @@
     "url": "git@github.com:odinr/gh-actions.git"
   },
   "devDependencies": {
-    "@commitlint/cli": "^11.0.0",
+    "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^11.0.0",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^4.3.0",
